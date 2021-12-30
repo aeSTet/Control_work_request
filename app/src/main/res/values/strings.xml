@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MainWork</string>
+    <string name="test">Тест</string>
+    <string name="main_inf">Для прохождения теста необходимо иметь возможность лечь на 5 минут.
+        Время проведения теста около 10-15 минут.</string>
+    <string name="title">Переутомление (Ортостатическая проба)</string>
+    <string name="birthday">День рождения:</string>
+    <string name="sex">Пол:</string>
+    <string name="p1">1. Необходимо лечь и лежать 5 минут почти без движений.</string>
+    <string name="p2">2. Посчитать пульс в течение минуты.</string>
+    <string name="p3">3. Введите пульс в положении лежа:</string>
+    <string name="p4">4. Встать и стоять без движений почти 5 минут.</string>
+    <string name="p5">5. Посчитать пульс в течение минуты.</string>
+    <string name="p6">6. Введите пульс в положении стоя:</string>
+    <string name="p7">7. Нажмите \'Ввод\'. Тест завершен!</string>
+    <string name="date">Выбрать дату:</string>
+    <string name="input">Ввод</string>
+    <string name="our_state">Ваше состояние</string>
+    <string name="good_result">Введенные значения соответствуют отсутствию переутомления. Вы в порядке!</string>
+    <string name="normal_result">Введенные значения соответствуют небольшому переутомления.
+        Рекомендуется снизить нагрузку.</string>
+    <string name="bad_result">Введенные значения соответствуют высокому уровню переутомления.
+        Рекомендуется снизить нагрузки или взять перерыв.</string>
+    <string name="result">Результаты теста</string>
+    <string name="error_res">Ошибка в данных</string>
+    <string name="medical_checkup">Не забывайте о регулярном профессиональном медицинском осмотре!</string>
+    <string name="todo">TODO</string>
+</resources>
